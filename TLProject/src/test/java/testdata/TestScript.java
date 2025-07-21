@@ -6,6 +6,10 @@ public class TestScript {
 	@Test
 	public void m1() {
 		System.out.println("Byeee");
-		int b=12;
+
+		int a=10;
+
+	int b=12;
+
 	}
 }
